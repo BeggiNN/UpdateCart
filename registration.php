@@ -2,4 +2,4 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Perspective_UpdateCart', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Petryshche_UpdateCart', __DIR__);
